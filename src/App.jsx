@@ -1,10 +1,10 @@
 import "./App.css";
 import Counter from "./components/Counter";
+import DemoClass from "./components/DemoClass";
 import Footer from "./components/Footer";
 import Hero from "./components/Hero";
 import Navbar from "./components/Navbar";
 import Timer from "./components/Timer";
-import DemoClass from "./components/demoClass";
 
 function App() {
   const data = () => {
